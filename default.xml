@@ -8,7 +8,7 @@
   <remote fetch="git://github.com/OSSystems" name="OSSystems"/>
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
   <remote fetch="git://github.com/koenkooi"  name="KODI"/>
-  <remote fetch="git://git@bitbucket.org:streamit" name="streamit" />
+  <remote fetch="ssh://git@bitbucket.org/streamit" name="streamit" />
     
   <project remote="rockchip" revision="master" name="meta-rockchip" path="sources/meta-rockchip"/>
   <project remote="rockchip" revision="master" name="meta-rockchip-extra" path="sources/meta-rockchip-extra"/>
