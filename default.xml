@@ -24,5 +24,6 @@
   <project remote="oe" revision="master" name="meta-openembedded" path="sources/meta-openembedded"/>
   <project remote="QT5" revision="master" name="meta-qt5" path="sources/meta-qt5" />
   <project remote="streamit" revision="master" name="meta-streamit" path="sources/meta-streamit" />
+  <project remote="streamit" revision="chromium61" name="meta-crosswalk" path="sources/meta-crosswalk" />
  
   </manifest>
