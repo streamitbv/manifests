@@ -15,7 +15,7 @@
  
   <project remote="streamit" revision="master" name="rkbin" path="rkbin"/>
 
-  <project remote="streamit" revision="yocto" name="build" path="sources/base">
+  <project remote="streamit" revision="wave-flash-tool" name="build" path="sources/base">
         <copyfile dest="README" src="README"/>
         <copyfile dest="setup-environment" src="setup-environment"/>
   </project>
