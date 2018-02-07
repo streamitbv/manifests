@@ -10,8 +10,8 @@
   <remote fetch="git://github.com/koenkooi"  name="KODI"/>
   <remote fetch="git://github.com/streamitbv" name="streamit" />
     
-  <project remote="rockchip" revision="69fa29d3dba6e46b69df157319431e76b1be9a0c" name="meta-rockchip" path="sources/meta-rockchip"/>
-  <project remote="rockchip" revision="a41cd8fdcd61baeefd601dd8b31b6966645aa403" name="meta-rockchip-extra" path="sources/meta-rockchip-extra"/>
+  <project remote="rockchip" revision="eae0225c335b4e5822dd7c144d5ed6219045e7b7" name="meta-rockchip" path="sources/meta-rockchip"/>
+  <project remote="rockchip" revision="0d6d36ea49b8c941e6d470fafef0f83db24a6354" name="meta-rockchip-extra" path="sources/meta-rockchip-extra"/>
  
   <project remote="streamit" revision="master" name="rkbin" path="rkbin"/>
 
