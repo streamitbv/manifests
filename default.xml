@@ -23,7 +23,7 @@
   <project remote="yocto" revision="rocko" name="poky" path="sources/poky"/>
   <project remote="oe" revision="rocko" name="meta-openembedded" path="sources/meta-openembedded"/>
   <project remote="QT5" revision="rocko" name="meta-qt5" path="sources/meta-qt5" />
+  <project remote="OSSystems" revision="master" name="meta-browser" path="sources/meta-browser" />
   <project remote="streamit" revision="master" name="meta-streamit" path="sources/meta-streamit" />
-  <project remote="streamit" revision="chromium61" name="meta-crosswalk" path="sources/meta-crosswalk" />
  
   </manifest>
